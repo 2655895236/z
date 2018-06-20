@@ -1,0 +1,97 @@
+body{background: #92dbff;}
+/*导航*/
+ul li a{color: #333;}
+.shou ul li a{text-decoration:none;}
+.shou ul li{
+	float: right;
+	list-style-type:none;
+	margin-left: 10px;
+}
+.nav{
+	margin-top: 10px;
+	background-color: #28b7ff;
+	border-top: 1px solid #d9edf7;
+	border-bottom: 1px solid #d9edf7;
+}
+.dhtou{
+	width: 80%;
+	height: 100px;
+
+}
+.h3{
+	width: 420px;
+	font-family: 华文行楷;
+	font-size: 50px;
+	/*float: left;*/
+}
+.h3-1{
+	margin-top: -111px;
+	margin-left: 520px;
+}
+.h3 span{font-size: 30px;}
+.gan{
+	width: 5px;
+	height: 111px;
+	/*float: left;*/
+	margin-top: -118px;
+	margin-left: 473px;
+	background: #fff;
+}
+.dhgn{
+	/*margin-left: 50px;*/
+	/*background: #1576a7;*/
+	height: 25px;
+	margin-bottom: 10px;
+/*	background: transparent;
+*/
+}
+.dhgn ul li a{text-decoration:none;}
+.dhgn ul li a:hover{color: #f9f9f9;}
+.dhgn ul li{
+	float: left;
+	/*width: 80px;
+	height: 35px;
+	background: #d9edf7; */
+	margin-left: 30px;
+	font-size: 20px;
+	font-family: 黑体;
+	list-style-type:none; 
+}
+/*结束导航*/
+/*轮播图*/
+.lbt{
+	width: 100%;
+}
+.swiper-container{
+	width: 80%;
+	margin: 0 auto;
+}
+.swiper-slide img{
+	width: 100%;	
+}
+/*轮播图结束*/
+/*展图*/
+.zt{
+	width: 80%;
+	margin-top: 10px;
+}
+/*结束展图*/
+/*新闻通告*/
+/*.xwxx{
+	height: 250px;
+	background: #d9edf7;
+}*/
+/*.xwxxl ul li .dropdown{
+	float: left;
+	font-size: 18px;
+	font-family: 黑体;
+	list-style-type:none;
+}*/
+.xwxx .xwxx1 ul li h3{float: left;}
+.xwxxl ul li a{
+	text-decoration: none
+}
+#xx{
+	margin: 0 auto;
+}
+/*结束新闻通告*/
